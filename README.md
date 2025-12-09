@@ -59,13 +59,13 @@ Lihat demo langsung di: **[https://laravel.mhaunan.me/](https://laravel.mhaunan.
 **HTTPS:**
 
 ```bash
-$ git clone https://github.com/mughnihaunan/sekolah-kas-template-webdev.git
+$ git clone https://github.com/Alpiyann/wangkas-template.git
 ```
 
 **SSH:**
 
 ```bash
-$ git clone git@github.com:mughnihaunan/sekolah-kas-template-webdev.git
+$ git clone git@github.com:Alpiyann/wangkas-template.git
 ```
 
 2. Instal seluruh packages yang dibutuhkan.
@@ -170,5 +170,5 @@ Pass    : secret
 
 ## Developer
 
--   [@mughnihaunan](https://github.com/mughnihaunan)
+-   [@Alpiyann](https://github.com/Alpiyann)
 -   Developed for SMAN 28 Jakarta - 2025
