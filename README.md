@@ -8,10 +8,6 @@ SMA Negeri 28 Jakarta adalah Sekolah Plus Standar Nasional yang didirikan pada 1
 
 Website Resmi: [https://sman28jkt.sch.id/](https://sman28jkt.sch.id/)
 
-## Demo
-
--   🌐 **Live Demo:** [https://laravel.mhaunan.me/](https://laravel.mhaunan.me/)
-
 ## Prasyarat
 
 Berikut beberapa hal yang perlu diinstal terlebih dahulu:
